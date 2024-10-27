@@ -1,4 +1,4 @@
-# XAIDEN
+# XAIDEN-NFT
 
 ## NFT-Gated Voting DApp on Solana
 
@@ -113,5 +113,5 @@ Build the web app
 ```shell
 npm run build
 ```
-# XAIDEN-NFT
-# XAIDEN-NFT
+
+
